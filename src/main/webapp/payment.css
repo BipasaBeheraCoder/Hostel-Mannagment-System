@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .payment-form {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  .payment-form1 {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  #cardElement {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #paymentResult {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  #paymentResult1 {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  

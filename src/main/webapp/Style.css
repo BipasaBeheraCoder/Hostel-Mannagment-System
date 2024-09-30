@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.bg-custom{
+	background: #fc9010 ;
+}
+:root{
+	--bgcolor:#FF5733;
+}
+
+.header{
+	background-color: var(--bg-color);
+}
